@@ -1,6 +1,14 @@
 # Hustle-Fitness🏋️🏃
 This fitness app consists of BMI Calculator using metric units with the help of the height & weight of a person  which categories the user to diffrent group and it also fetches a variety of nutritional recipes
 # Technical Outline 📕
+❶ Phone OTP Authentication\
+❷ Splash Screen Page\
+❸ Hustle-Fitness Home Page\ 
+❹ Body Mass Index calculator Page\
+❺ Dark Theme\
+❻ Result Page\
+❼ Nutritional Recipes Search Page\
+❽ Redirecting To Youtube Playlist
 # Vedio Preview
 https://user-images.githubusercontent.com/112925756/189522980-d5915516-2529-4438-a0af-b6247bdf9c43.mp4
 # Screenshots
