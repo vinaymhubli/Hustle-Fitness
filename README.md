@@ -3,7 +3,7 @@ This fitness app consists of BMI Calculator using metric units with the help of 
 # Technical Outline 📕
 ❶ Phone OTP Authentication\
 ❷ Splash Screen Page\
-❸ Hustle-Fitness Home Page\ 
+❸ Hustle-Fitness Home Page\
 ❹ Body Mass Index calculator Page\
 ❺ Dark Theme\
 ❻ Result Page\
